@@ -1,0 +1,2 @@
+# Diary-Master
+A diary
